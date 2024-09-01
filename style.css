@@ -1,13 +1,13 @@
-.heading {
+.heading{
   background-color: teal;
-  color: wheat;
+  color:wheat;
   border: 1px solid salmon;
 }
-#root {
+#root{
   text-align: center;
 }
-#root > button {
+#root>button{
   background-color: teal;
-  color: wheat;
+  color:wheat;
   border: 1px solid salmon;
 }
